@@ -32,4 +32,5 @@ Visite o projeto online 🔗 [DESSE LINK](https://iamsandralima.github.io/boraCo
 
 * Aprimoramento de inglês técnico;
 * Estilização da área de texto;
+* Design;
 
